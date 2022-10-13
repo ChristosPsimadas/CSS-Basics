@@ -1,0 +1,25 @@
+.table{
+    font-size: 40px;
+    width: auto;
+    margin: auto;
+    border-collapse: collapse;
+}
+.row:nth-child(even){
+    background-color: #c4dcf3 ;
+}
+.heading{
+    background-color: #427fef;
+    color: white;
+    border-color: white;
+    text-align: left;
+}
+
+.col{
+    font-size: smaller;
+    padding: 10px;
+}
+.hcol{
+    font-size: smaller;
+    padding: 10px;
+
+}
